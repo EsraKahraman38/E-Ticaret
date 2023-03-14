@@ -1,0 +1,17 @@
+C:\Users\Dell\Desktop\E-Ticaret Atilla Hoca\E-Shop\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Dell\Desktop\E-Ticaret Atilla Hoca\E-Shop\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Dell\Desktop\E-Ticaret Atilla Hoca\E-Shop\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\E-Ticaret Atilla Hoca\E-Shop\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\E-Ticaret Atilla Hoca\E-Shop\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Dell\Desktop\E-Ticaret Atilla Hoca\E-Shop\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Dell\Desktop\E-Ticaret Atilla Hoca\E-Shop\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Dell\Desktop\E-Ticaret Atilla Hoca\E-Shop\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Dell\Desktop\E-Ticaret Atilla Hoca\E-Shop\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\Desktop\E-Ticaret Atilla Hoca\E-Shop\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\Dell\Desktop\E-Ticaret Atilla Hoca\E-Shop\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Dell\Desktop\E-Ticaret Atilla Hoca\E-Shop\DataAccessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\Dell\Desktop\E-Ticaret Atilla Hoca\E-Shop\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Dell\Desktop\E-Ticaret Atilla Hoca\E-Shop\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\Desktop\E-Ticaret Atilla Hoca\E-Shop\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Dell\Desktop\E-Ticaret Atilla Hoca\E-Shop\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.userpass.resources
+C:\Users\Dell\Desktop\E-Ticaret Atilla Hoca\E-Shop\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
